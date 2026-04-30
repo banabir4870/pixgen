@@ -1,5 +1,6 @@
 import { Badge, Button, Card, Chip, Separator } from '@heroui/react';
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 import { FaHeart } from 'react-icons/fa';
 import { MdOutlineFileDownload } from 'react-icons/md';
@@ -19,7 +20,7 @@ const PhotoCard = ({ photo }) => {
                 <Separator orientation='vertical'></Separator>
                 <p className='flex items-center gap-2'><MdOutlineFileDownload className='text-xl' /> {photo.downloads}</p>
             </div>
-            <Button className='w-full' variant="outline">View</Button>
+            <Link href={`/all-photos/${photo.id}`}><Button className='w-full' variant="outline">View</Button></Link>
         </Card>
     );
 };
