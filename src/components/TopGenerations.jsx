@@ -5,7 +5,6 @@ const TopGenerations = async () => {
     const res = await fetch('https://pixgen-ebon.vercel.app/data.json');
     const data = await res.json();
     const topPhotos = data.slice(0, 8)
-    console.log(topPhotos)
     return (
         <div className='my-6'>
             <h1 className='text-center text-3xl font-semibold'>Top Image Generations</h1>

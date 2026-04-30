@@ -5,7 +5,6 @@ import { FaHeart } from 'react-icons/fa';
 import { MdOutlineFileDownload } from 'react-icons/md';
 
 const PhotoCard = ({ photo }) => {
-    console.log("Data from photo: ", photo)
     return (
         <Card className='border'>
             <div className='relative'>
