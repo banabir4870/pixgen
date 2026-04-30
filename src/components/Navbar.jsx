@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Navbar = () => {
-  const userData = useSession()
+  const userData = authClient.useSession()
   const user = userData.data?.user;
   console.log('user data: ', user)
 
