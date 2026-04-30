@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "title": "Neon Samurai at Dawn",
+        "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=800",
+        "prompt": "A lone samurai standing on a rooftop at dawn, neon city lights reflecting off wet pavement, cinematic lighting, ultra detailed",
+        "category": "Cyberpunk",
+        "model": "Midjourney v6",
+        "resolution": "1920x1080",
+        "likes": 512,
+        "downloads": 134,
+        "createdAt": "2026-04-29T08:14:00Z",
+        "tags": [
+            "samurai",
+            "neon",
+            "cityscape",
+            "night",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Crystal Dragon of the Void",
+        "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+        "prompt": "A massive crystal dragon emerging from a void portal, surrounded by magical runes and glowing orbs, epic fantasy art",
+        "category": "Fantasy",
+        "model": "DALL·E 3",
+        "resolution": "1024x1024",
+        "likes": 487,
+        "downloads": 112,
+        "createdAt": "2026-04-28T14:22:00Z",
+        "tags": [
+            "dragon",
+            "crystal",
+            "magic",
+            "fantasy",
+            "portal"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Abandoned Space Station",
+        "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+        "prompt": "An abandoned orbital space station drifting near a dying red star, debris floating in zero gravity, photorealistic render",
+        "category": "Sci-Fi",
+        "model": "SDXL",
+        "resolution": "1920x1080",
+        "likes": 356,
+        "downloads": 98,
+        "createdAt": "2026-04-27T09:45:00Z",
+        "tags": [
+            "space",
+            "station",
+            "abandoned",
+            "scifi",
+            "cosmos"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Melting Clock Forest",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+        "prompt": "Salvador Dali inspired surreal forest where clocks melt over ancient trees, golden hour light, dreamlike atmosphere",
+        "category": "Surreal",
+        "model": "Midjourney v6",
+        "resolution": "1440x1080",
+        "likes": 429,
+        "downloads": 107,
+        "createdAt": "2026-04-26T17:30:00Z",
+        "tags": [
+            "surreal",
+            "clocks",
+            "forest",
+            "dreamlike",
+            "dali"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "8-Bit Dungeon Explorer",
+        "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
+        "prompt": "Retro pixel art dungeon scene with a tiny hero exploring a torch-lit cave filled with treasure chests and slime monsters",
+        "category": "Pixel Art",
+        "model": "Stable Diffusion",
+        "resolution": "512x512",
+        "likes": 318,
+        "downloads": 89,
+        "createdAt": "2026-04-25T11:10:00Z",
+        "tags": [
+            "pixel",
+            "dungeon",
+            "retro",
+            "hero",
+            "8bit"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Pastel Grid Sunset",
+        "imageUrl": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=800",
+        "prompt": "Vaporwave aesthetic sunset over a retro grid ocean, pastel pink and purple sky, palm tree silhouettes, synthwave vibes",
+        "category": "Vaporwave",
+        "model": "DALL·E 3",
+        "resolution": "1920x1080",
+        "likes": 391,
+        "downloads": 121,
+        "createdAt": "2026-04-29T06:00:00Z",
+        "tags": [
+            "vaporwave",
+            "sunset",
+            "grid",
+            "pastel",
+            "synthwave"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Clockwork Airship Fleet",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800",
+        "prompt": "A fleet of brass and copper steampunk airships sailing above Victorian clouds, gears and steam pipes visible, warm sepia tone",
+        "category": "Steampunk",
+        "model": "Midjourney v6",
+        "resolution": "1920x1080",
+        "likes": 445,
+        "downloads": 130,
+        "createdAt": "2026-04-28T20:15:00Z",
+        "tags": [
+            "steampunk",
+            "airship",
+            "brass",
+            "victorian",
+            "clouds"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Hyper-Real Eye Closeup",
+        "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "prompt": "Extreme macro photograph of a human eye with galaxy reflections in the iris, hyper-realistic skin texture, 8K detail",
+        "category": "Realistic",
+        "model": "SDXL",
+        "resolution": "3840x2160",
+        "likes": 598,
+        "downloads": 149,
+        "createdAt": "2026-04-27T15:00:00Z",
+        "tags": [
+            "eye",
+            "macro",
+            "realistic",
+            "galaxy",
+            "portrait"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "White Void Geometry",
+        "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+        "prompt": "Minimalist composition of floating white geometric shapes in an infinite white void, soft shadows, clean aesthetic",
+        "category": "Minimal",
+        "model": "DALL·E 3",
+        "resolution": "1080x1080",
+        "likes": 281,
+        "downloads": 76,
+        "createdAt": "2026-04-26T08:30:00Z",
+        "tags": [
+            "minimal",
+            "geometry",
+            "white",
+            "shapes",
+            "clean"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Underwater Cyber City",
+        "imageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=800",
+        "prompt": "A sprawling cyberpunk megacity submerged underwater, bioluminescent fish weaving between neon skyscrapers, teal and purple glow",
+        "category": "Cyberpunk",
+        "model": "Stable Diffusion",
+        "resolution": "1920x1080",
+        "likes": 472,
+        "downloads": 118,
+        "createdAt": "2026-04-25T21:45:00Z",
+        "tags": [
+            "underwater",
+            "city",
+            "neon",
+            "bioluminescent",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Enchanted Mushroom Village",
+        "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=800",
+        "prompt": "A whimsical fantasy village built inside giant glowing mushrooms, tiny fairy lights, misty forest floor, magical golden light",
+        "category": "Fantasy",
+        "model": "Midjourney v6",
+        "resolution": "1440x1080",
+        "likes": 534,
+        "downloads": 143,
+        "createdAt": "2026-04-24T13:20:00Z",
+        "tags": [
+            "mushroom",
+            "village",
+            "fairy",
+            "glowing",
+            "fantasy"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Pixel Space Odyssey",
+        "imageUrl": "https://images.unsplash.com/photo-1464802686167-b939a6910659?w=800",
+        "prompt": "Retro pixel art space odyssey with a blocky astronaut floating past pixel planets, stars and comets, 16-bit color palette",
+        "category": "Pixel Art",
+        "model": "Stable Diffusion",
+        "resolution": "512x512",
+        "likes": 296,
+        "downloads": 84,
+        "createdAt": "2026-04-23T10:00:00Z",
+        "tags": [
+            "pixel",
+            "space",
+            "astronaut",
+            "retro",
+            "16bit"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Infinite Mirror Hallway",
+        "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=800",
+        "prompt": "Surreal infinite hallway made entirely of mirrors, distorted reflections of a figure fading into eternity, eerie blue lighting",
+        "category": "Surreal",
+        "model": "SDXL",
+        "resolution": "1920x1080",
+        "likes": 413,
+        "downloads": 102,
+        "createdAt": "2026-04-29T12:00:00Z",
+        "tags": [
+            "mirror",
+            "hallway",
+            "infinite",
+            "surreal",
+            "reflection"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Martian Colony at Dusk",
+        "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800",
+        "prompt": "A human colony on Mars at dusk, dome habitats glowing orange, red dust storms on the horizon, twin moons rising, cinematic",
+        "category": "Sci-Fi",
+        "model": "DALL·E 3",
+        "resolution": "1920x1080",
+        "likes": 388,
+        "downloads": 95,
+        "createdAt": "2026-04-24T19:50:00Z",
+        "tags": [
+            "mars",
+            "colony",
+            "scifi",
+            "dusk",
+            "space"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Analog Dream Arcade",
+        "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
+        "prompt": "Vaporwave retro arcade room with glowing cabinets, checkered floor, CRT screens, neon signs, and hazy purple atmosphere",
+        "category": "Vaporwave",
+        "model": "Midjourney v6",
+        "resolution": "1920x1080",
+        "likes": 461,
+        "downloads": 127,
+        "createdAt": "2026-04-23T16:40:00Z",
+        "tags": [
+            "arcade",
+            "retro",
+            "neon",
+            "vaporwave",
+            "crt"
+        ]
+    }
+]
